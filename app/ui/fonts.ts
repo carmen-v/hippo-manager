@@ -1,5 +1,5 @@
-import { Inter } from 'next/font/google';
-import { Lusitana } from 'next/font/google';
+import { Fira_Sans } from 'next/font/google';
+import { Spicy_Rice } from 'next/font/google';
 
-export const inter = Inter({ subsets: ['latin'] });
-export const lusitana = Lusitana({weight: ['400', '700'], subsets: ['latin'] });
+export const inter = Fira_Sans({weight: ['400'], subsets: ['latin'] });
+export const lusitana = Spicy_Rice({weight: ['400'], subsets: ['latin']});

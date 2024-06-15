@@ -4,10 +4,10 @@ import { inter } from '@/app/ui/fonts';
 
 export const metadata: Metadata = {
   title: {
-    template: '%s | Acme Dashboard',
-    default: 'Acme Dashboard',
+    template: '%s | HippoDen Manager',
+    default: 'HippoDen Manager',
   },
-  description: 'The official Next.js Learn Dashboard built with App Router.',
+  description: 'The ideal hippo to help you manage your den',
   metadataBase: new URL('https://next-learn-dashboard.vercel.sh'),
 };
 
